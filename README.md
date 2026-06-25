@@ -113,10 +113,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 - 📧 [chandansinghatwork22@gmail.com](mailto:chandansinghatwork22@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandan-singh-23869b310)
-- 💻 [LeetCode](https://leetcode.com/u/24bcs12108/)
-- 🏆 [HackerRank](https://www.hackerrank.com/profile/24bcs12108)
-- 📷 [Instagram](https://www.instagram.com/chandannn_22/)
 
 ---
 
-<p align="center">Made with ❤️ by <strong>Chandan Singh</strong></p>
